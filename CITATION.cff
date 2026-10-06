@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Puzzle Koleda: sliding-tile puzzle game on a winter folk tradition (MIT App Inventor (Android), 2021)"
+version: "1.0"
+abstract: "A 3×3 sliding-tile puzzle on the theme of the koleda, the carol singing that marks the New Year in Slovene folk tradition. The picture is cut into nine tiles that the player slides on a canvas until the image is recomposed; on success the app plays applause and the traditional song and offers a link to a page about the custom. Slovene interface."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+repository-code: "https://github.com/massimosbarbaro/koleda-sliding-puzzle-appinventor"
+keywords:
+  - "MIT App Inventor"
+  - "Android"
+  - "game"
+  - "puzzle"
+  - "folk tradition"
+  - "education"
