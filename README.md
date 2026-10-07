@@ -1,8 +1,10 @@
 # Puzzle Koleda: sliding-tile puzzle game on a winter folk tradition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23205264.svg)](https://doi.org/10.5281/zenodo.23205264)
+
 *Gioco del quindici (puzzle a tessere) su una tradizione popolare invernale*
 
-**MIT App Inventor (Android)** · 2021 · version 1.0  
+**Android** · 2021 · version 1.0  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -40,9 +42,9 @@ Photographs, illustrations, logos, sound recordings and stock images are **not**
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23205264](https://doi.org/10.5281/zenodo.23205264).
 
-> Sbarbaro, Massimo. *Puzzle Koleda: sliding-tile puzzle game on a winter folk tradition (MIT App Inventor (Android), 2021)*. Software, version 1.0. GitHub: https://github.com/massimosbarbaro/koleda-sliding-puzzle-appinventor
+> Sbarbaro, Massimo. 2021. *Puzzle Koleda: sliding-tile puzzle game on a winter folk tradition*. Software (Android, 2021), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23205264.
 
 ## License
 

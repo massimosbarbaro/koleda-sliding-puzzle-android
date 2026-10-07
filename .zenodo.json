@@ -1,8 +1,8 @@
 {
-  "title": "Puzzle Koleda: sliding-tile puzzle game on a winter folk tradition (MIT App Inventor (Android), 2021)",
+  "title": "Puzzle Koleda: sliding-tile puzzle game on a winter folk tradition (Android, 2021)",
   "upload_type": "software",
   "publication_date": "2021-11-02",
-  "description": "<p><em>Gioco del quindici (puzzle a tessere) su una tradizione popolare invernale</em></p><p>A 3×3 sliding-tile puzzle on the theme of the koleda, the carol singing that marks the New Year in Slovene folk tradition. The picture is cut into nine tiles that the player slides on a canvas until the image is recomposed; on success the app plays applause and the traditional song and offers a link to a page about the custom. Slovene interface.</p><p>Designed and programmed by Massimo Sbarbaro in 2021 (MIT App Inventor (Android)). Published in 2026; all original data and the names of client organisations have been removed.</p>",
+  "description": "<p><em>Gioco del quindici (puzzle a tessere) su una tradizione popolare invernale</em></p><p>A 3×3 sliding-tile puzzle on the theme of the koleda, the carol singing that marks the New Year in Slovene folk tradition. The picture is cut into nine tiles that the player slides on a canvas until the image is recomposed; on success the app plays applause and the traditional song and offers a link to a page about the custom. Slovene interface.</p><p>Designed and programmed by Massimo Sbarbaro in 2021 (Android). Published in 2026; all original data and the names of client organisations have been removed.</p>",
   "creators": [
     {
       "name": "Sbarbaro, Massimo",
