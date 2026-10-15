@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23205264"
 repository-code: "https://github.com/massimosbarbaro/koleda-sliding-puzzle-android"
 keywords:
-  - "MIT App Inventor"
   - "Android"
   - "game"
   - "puzzle"
